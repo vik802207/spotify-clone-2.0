@@ -121,12 +121,6 @@ src/
 ![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(580).png)
 ![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(581).png)
 
-
-
-
-
-> _You can find all these under `src/pages/`, `components/`, and controlled via context and state._
-
 ---
 
 ## 🔑 APIs Used
@@ -152,12 +146,9 @@ npm start
 
 🧪 The audio preview works with previewUrl from APIs (30 sec snippets)
 
-⚙️ For authentication, you can integrate Firebase/Auth0 if needed
-
-## 👨‍💻 Author
-Built with ❤️ by Your Name
-
-📃 License
+## 🤝 Contributing
+PRs are welcome! For major changes, please open an issue first to discuss what you would like to change.
+## 📄 License
 This project is licensed under the MIT License.
 
 
