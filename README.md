@@ -68,6 +68,17 @@ src/
 ```
 
 ---
+### 📺 Watch Demo
+
+[![Watch Demo Video](https://img.shields.io/badge/▶️%20Watch-Demo%20Video-blue?style=for-the-badge)](https://drive.google.com/file/d/1c2jd33E8EStUE1fTWurAbP5ARZYSv5Ej/view?usp=sharing)
+
+> Click the badge above to watch a video demo of the Spotify 2.0 Clone in action.
+---
+
+## 🚀 Live Project
+
+[![Visit Live Site](https://img.shields.io/badge/🌐%20Live%20Project-Vercel-brightgreen?style=for-the-badge)](https://spotify-clone-20-assignment.vercel.app/)
+---
 
 ## 📸 Screenshots
 ---
