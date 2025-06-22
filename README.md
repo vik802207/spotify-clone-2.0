@@ -70,8 +70,9 @@ src/
 ---
 
 ## 📸 Screenshots
-
+---
 ### 🎼 Dashboard (Music Trends, Genres, Popular Artists)
+---
 ![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(536).png)
 ![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(537).png)
 ![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(538).png)
@@ -97,38 +98,32 @@ src/
 ![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
 ![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(559).png)
 ![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(560).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(561).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(562).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(563).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/Screenshot%20(558).png)
-
-
-
-
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(561).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(562).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(563).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(564).png)
 ### 🔍 Search & Song List with Play Button
-![Search](./screenshots/search-2.png)
+---
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(566).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(567).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(568).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(569).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(570).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(571).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(572).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(573).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(574).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(575).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(576).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(577).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(578).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(579).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(580).png)
+![Dashboard](https://github.com/vik802207/spotify-clone-2.0/blob/main/img/Screenshot%20(581).png)
 
-### 🎶 Footer Music Player with Progress
-![Footer Player](./screenshots/player-3.png)
+
+
+
 
 > _You can find all these under `src/pages/`, `components/`, and controlled via context and state._
 
